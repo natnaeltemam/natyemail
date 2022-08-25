@@ -1,0 +1,34 @@
+textarea {
+    min-height: 400px;
+}
+#body{
+    margin-top: 25px;
+    
+}
+.emaillister{
+    display: flex;
+    justify-content:space-between;
+    cursor: pointer;
+}
+.list{
+    display: flex;
+}
+.sender{
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 6px;
+}
+.times{
+    margin-top: 6px;
+    margin-right: 10px;
+    color: rgb(105, 99, 99);
+}
+.subject{
+    margin-top: 6px;
+}
+.gray{
+    background-color: rgb(249, 244, 244);
+}
+.white{
+    background-color: white;
+}
